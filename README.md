@@ -5,8 +5,8 @@
 To implement Pseudo Node configuration for Hadoop on ubuntu
 
 ```
-Name : George Paul Tony .C
-Reg.No: 212222040043
+Name : S.Laxman sudharshan reddy
+Reg.No: 212222040159
 ```
 
 ## Pre-requisites
